@@ -15,15 +15,26 @@ Hver og einn á að setja inn og viðhalda geymslunni (Git)
     - Hvað gekk vel í verkefninu
     - Hvað má bæta næst
 
-### Gagnsæisyfirlýsing um notkun gervigreindar
+## Gagnsæisyfirlýsing um notkun gervigreindar
 
-Ef þið notið gervigreind við vinnslu verkefnisins skal koma fram:
+Í gagnsæisyfirlýsingunni skuluð þið gera grein fyrir eftirfarandi:
 
-- hvaða gervigreindarverkfæri voru notuð,
-- hvaða kvaðningar (prompts) voru notaðar,
-- í hvaða tilgangi gervigreind var notuð,
-- hvernig þið breyttuð gervigreindarúttakinu og/eða nýttuð það?
+1. **Verkfæri:** Hvaða gervigreindarverkfæri notuðuð þið? Nefnið verkfærin.
 
-Þið skuluð einnig lýsa því yfir að þið hafið yfirfarið efni sem kemur frá gervigreind og berið ábyrgð á öllu efni sem þið skilið.
+2. **Kvaðningar (prompts):** Gefið 1–2 dæmi um kvaðningar sem þið notuðuð og sýna hvernig þið nýttuð gervigreind við verkefnið.
+
+3. **Tilgangur:** Tilgreinið í hvaða tilgangi þið notuðuð gervigreind. Merkið við allt sem á við og útskýrið stuttlega eftir þörfum.
+
+  - [ ] Yfirlestur á texta með tilliti til málnotkunar og framsetningar.
+  - [ ] Aðstoð við notkun verkfæra, t.d. Git og GitHub.
+  - [ ] Upplýsingaleit um viðfangsefni hugbúnaðarins.
+  - [ ] Útskýringar á námsefninu og hugtökum þess.
+  - [ ] Hugmyndavinna og tillögur sem nýttar voru í verkefninu.
+  - [ ] Gerð eða endurskoðun á efni sem skilað var í verkefninu.
+  - [ ] Annað (tilgreinið).
+
+4. **Úrvinnsla:** Lýsið hvernig þið yfirfóruð, breyttuð og/eða nýttuð úttak gervigreindar í verkefninu.
+
+Ef þið notuðuð gervigreind á fleiri en einn hátt skuluð þið gera grein fyrir því hvernig þið nýttuð úttakið í hverju tilviki.
 Ef gervigreind var ekki notuð við vinnslu verkefnisins skal það koma fram í gagnsæisyfirlýsingunni.
 
