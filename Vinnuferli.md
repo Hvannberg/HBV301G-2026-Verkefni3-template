@@ -16,25 +16,27 @@ Hver og einn á að setja inn og viðhalda geymslunni (Git)
     - Hvað má bæta næst
 
 ## Gagnsæisyfirlýsing um notkun gervigreindar
-
-Í gagnsæisyfirlýsingunni skuluð þið gera grein fyrir eftirfarandi:
+ 
+Gagnsæisyfirlýsingin á að sýna bæði hvernig gervigreind var nýtt og hvert ykkar eigið framlag var. 
 
 1. **Verkfæri:** Hvaða gervigreindarverkfæri notuðuð þið? Nefnið verkfærin.
 
-2. **Kvaðningar (prompts):** Gefið 1–2 dæmi um kvaðningar sem þið notuðuð og sýna hvernig þið nýttuð gervigreind við verkefnið.
+2. **Kvaðningar (prompts):** Gefið 1–2 dæmi um kvaðningar sem sýna hvernig þið nýttuð gervigreind við verkefnið.
 
-3. **Tilgangur:** Tilgreinið í hvaða tilgangi þið notuðuð gervigreind. Merkið við allt sem á við og útskýrið stuttlega eftir þörfum.
+3. **Tilgangur:** Tilgreinið í hvaða tilgangi þið notuðuð gervigreind. Merkið við allt sem á við og útskýrið notkunina stuttlega fyrir neðan.
 
   - [ ] Yfirlestur á texta með tilliti til málnotkunar og framsetningar.
   - [ ] Aðstoð við notkun verkfæra, t.d. Git og GitHub.
   - [ ] Upplýsingaleit um viðfangsefni hugbúnaðarins.
   - [ ] Útskýringar á námsefninu og hugtökum þess.
-  - [ ] Hugmyndavinna og tillögur sem nýttar voru í verkefninu.
-  - [ ] Gerð eða endurskoðun á efni sem skilað var í verkefninu.
+  - [ ] Hugmyndavinna: Tillögur að hugmyndum, greiningu eða lausnum sem nýttar voru í verkefninu.
+  - [ ] Efnisgerð: Gerð eða endurskoðun á texta, líkönum eða öðru efni sem skilað var í verkefninu.
   - [ ] Annað (tilgreinið).
 
-4. **Úrvinnsla:** Lýsið hvernig þið yfirfóruð, breyttuð og/eða nýttuð úttak gervigreindar í verkefninu.
+Stutt útskýring: Lýsið nánar hvernig þið notuðuð gervigreind í þeim tilgangi sem þið merktuð við, sérstaklega ef hún var notuð við hugmyndavinnu eða efnisgerð. Tilgreinið hvaða hluta verkefnisins notkunin tengdist.
 
-Ef þið notuðuð gervigreind á fleiri en einn hátt skuluð þið gera grein fyrir því hvernig þið nýttuð úttakið í hverju tilviki.
+4. **Úrvinnsla:** Lýsið hvernig þið yfirfóruð, mátuð og nýttuð úttak gervigreindar í verkefninu. Ef gervigreind var notuð við hugmyndavinnu eða gerð efnis, gefið dæmi um hvernig þið mátuð tillögur hennar og rökstyðjið hvers vegna þið ákváðuð að nýta þær.
+
+Ef gervigreind var notuð við ólíka þætti verkefnisins skuluð þið gera grein fyrir helstu notkunartilvikum.
 Ef gervigreind var ekki notuð við vinnslu verkefnisins skal það koma fram í gagnsæisyfirlýsingunni.
 
